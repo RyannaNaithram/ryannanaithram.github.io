@@ -1,7 +1,1 @@
-#theme: jekyll-theme-midnight
-
-title: My Cool Site
-description: Made with a custom GitHub Pages theme!
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-slate
