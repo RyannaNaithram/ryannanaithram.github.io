@@ -4,6 +4,5 @@ plugins:
   - jekyll-include-cache
 author:
   name: "Ryanna Naithram"
-  avatar: "/assets/images/headshot.jpg"   # optional headshot
   bio: "Atmospheric science • Remote sensing • GIS • Python"
   location: "Beltsville, MD"
