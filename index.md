@@ -3,7 +3,7 @@ layout: splash
 title: "Observing a Changing Planet"
 excerpt: "Atmospheric and Oceanic Science • Remote Sensing • Earth Observation"
 header:
-  overlay_image: /assets/images/earth_banner.png
+  overlay_image: /assets/images/space.jpeg
   overlay_filter: 0.45
 author_profile: true
 ---
