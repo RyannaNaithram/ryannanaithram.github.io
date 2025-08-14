@@ -9,11 +9,13 @@ author_profile: true
 ---
 
 
-## Hi, I’m Ryanna Naithram
+## Hi, I am Ryanna Naithram
 
 Beltsville, MD · [ryrynaithram@gmail.com](mailto:ryrynaithram@gmail.com)
 
-I work where **space meets the atmosphere**—using satellite data to understand human activity and environmental change. My recent work spans **nighttime lights (VIIRS/Black Marble)**, **Sentinel-1 SAR**, **HLS**, and **fire detections**, with a focus on building clean, reproducible Python workflows.
+I work where space meets the atmosphere — using satellite data to better understand how people and the environment interact. Recently, I’ve explored nighttime lights (VIIRS/Black Marble), Sentinel-1 SAR, HLS, and fire detections to track changes in activity, infrastructure, and ecosystems.
+
+I enjoy making sense of complex datasets, building workflows that are easy to reuse, and combining different satellite perspectives to tell a more complete story about our planet.
 
 ---
 
