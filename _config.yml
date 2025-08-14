@@ -1,10 +1,7 @@
 title: Ryanna Ciara Naithram
 description: GIS & Remote Sensing • Data Analysis • Research
 
-# Use Chirpy as a remote theme
-remote_theme: cotes2020/jekyll-theme-chirpy
-plugins:
-  - jekyll-remote-theme
+theme: cotes2020/jekyll-theme-midnight
 
 # Author info
 author:
