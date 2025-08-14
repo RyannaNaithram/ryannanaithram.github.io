@@ -1,19 +1,24 @@
 title: Ryanna Ciara Naithram
 description: GIS & Remote Sensing • Data Analysis • Research
-theme: jekyll-theme-chirpy
 
-# Optional: social & contact info
+# Use Chirpy as a remote theme
+remote_theme: cotes2020/jekyll-theme-chirpy
+plugins:
+  - jekyll-remote-theme
+
+# Author info
 author:
   name: Ryanna Ciara Naithram
-  email: your.email@example.com
+  email: ryrynaithram@gmail.com
   github: ryannanaithram
   linkedin: your-linkedin-url
 
-# Navigation (add more pages later)
+# Navigation (optional — Chirpy uses sidebar nav by default)
 header_pages:
   - index.md
   - projects.md
 
-# Markdown & formatting settings
+# Markdown & code highlighting
 markdown: kramdown
 highlighter: rouge
+
