@@ -11,7 +11,7 @@ Currently working with NASA ARSET and ESSIC on global-scale satellite data appli
 
 ## 🎓 Education
 **University of Maryland, College Park**  
-*Bachelor of Science – Atmospheric and Oceanic Science* (Expected Dec 2025)  
+*Bachelor of Science – Atmospheric and Oceanic Science*  
 Relevant Coursework: Scientific Programming with Python, Physical Meteorology, Atmospheric Dynamics, Atmospheric Chemistry, Machine Learning in Earth Science, GIS
 
 ---
