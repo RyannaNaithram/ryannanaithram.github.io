@@ -1,1 +1,19 @@
-theme: jekyll-theme-slate
+title: Ryanna Ciara Naithram
+description: GIS & Remote Sensing • Data Analysis • Research
+theme: jekyll-theme-cayman
+
+# Optional: social & contact info
+author:
+  name: Ryanna Ciara Naithram
+  email: your.email@example.com
+  github: ryannanaithram
+  linkedin: your-linkedin-url
+
+# Navigation (add more pages later)
+header_pages:
+  - index.md
+  - projects.md
+
+# Markdown & formatting settings
+markdown: kramdown
+highlighter: rouge
