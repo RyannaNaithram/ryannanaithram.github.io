@@ -1,20 +1,6 @@
-title: Ryanna Ciara Naithram
-description: GIS & Remote Sensing • Data Analysis • Research
-
-theme: jekyll-theme-midnight
-
-# Author info
+remote_theme: "mmistakes/minimal-mistakes"
 author:
-  name: Ryanna Ciara Naithram
-  email: ryrynaithram@gmail.com
-  github: ryannanaithram
-
-# Navigation (optional — Chirpy uses sidebar nav by default)
-header_pages:
-  - index.md
-  - projects.md
-
-# Markdown & code highlighting
-markdown: kramdown
-highlighter: rouge
-
+  name: "Ryanna Naithram"
+  avatar: "/assets/images/headshot.jpg"   # optional headshot
+  bio: "Atmospheric science • Remote sensing • GIS • Python"
+  location: "Beltsville, MD"
