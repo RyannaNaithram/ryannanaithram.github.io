@@ -13,7 +13,7 @@ author_profile: true
 
 Beltsville, MD · [ryrynaithram@gmail.com](mailto:ryrynaithram@gmail.com)
 
-I work where space meets the atmosphere — using satellite data to better understand how people and the environment interact. Recently, I’ve explored nighttime lights (VIIRS/Black Marble), Sentinel-1 SAR, HLS, and fire detections to track changes in activity, infrastructure, and ecosystems.
+I work where space meets the atmosphere — using satellite data to better understand how people and the environment interact. Recently, I’ve explored nighttime lights (VIIRS/Black Marble), Sentinel-1 SAR, HLS, and VIIRS fire detections to track changes in activity, infrastructure, and ecosystems.
 
 I enjoy making sense of complex datasets, building workflows that are easy to reuse, and combining different satellite perspectives to tell a more complete story about our planet.
 
