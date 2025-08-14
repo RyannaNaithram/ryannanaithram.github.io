@@ -3,7 +3,7 @@ layout: splash
 title: "Observing a Changing Planet"
 excerpt: "Atmospheric and Oceanic Science • Remote Sensing • Earth Observation"
 header:
-  overlay_image: /assets/images/slow-pan-shot-to-earth-from-space-clip-contains-earth-space-florida-bahamas-caribbean-cuba-sun-planet-atmosphere-ocean-images-from-nasa_roeaggdol__F0006.png
+  overlay_image: /assets/images/earth_banner.png
   overlay_filter: 0.45
 author_profile: true
 ---
