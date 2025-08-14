@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Signals from Space, Stories on Earth"
+title: "Observing a Changing Planet"
 header:
   overlay_image: /assets/images/hero_space_atmos.jpg
   overlay_filter: 0.45
